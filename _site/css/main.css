@@ -1,0 +1,37 @@
+#skills {
+  background-color: #FFF;
+  min-height: 70vh;
+  font-family: robo; }
+
+#contact {
+  background-color: #FAFAFF; }
+  #contact .cont {
+    text-align: center; }
+
+#home {
+  background-image: url("../images/sky.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: robo; }
+  #home .first {
+    position: relative;
+    padding-top: 100px;
+    text-transform: translateY(-50%);
+    text-align: center;
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 300; }
+    #home .first .head {
+      font-size: 75px;
+      font-weight: 300; }
+    #home .first .main {
+      font-size: 20px; }
+    #home .first .img-circle {
+      width: 150px;
+      height: 150px;
+      background: red;
+      -moz-border-radius: 70px;
+      -webkit-border-radius: 70px;
+      border-radius: 80px;
+      margin-top: 30px; }
